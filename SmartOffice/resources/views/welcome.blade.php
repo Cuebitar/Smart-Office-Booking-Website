@@ -30,5 +30,4 @@
         </div>
     </body>
     <script src="/js/app.js"></script>
-<a href="http://" target="_blank" rel="noopener noreferrer">hi</a>
     </html>
